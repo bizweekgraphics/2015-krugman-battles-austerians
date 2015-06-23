@@ -85,7 +85,7 @@ h1
   height:100%;
 }
 .horizonT{
-  z-index: 222;
+  z-index: 4;
   width: 9000px;
   height:100%;
 }
@@ -97,7 +97,7 @@ h1
 }
 
 .front{
-  z-index: 4;
+  z-index: 5;
   width: 15000px;
   height:100%;
 }
@@ -171,7 +171,7 @@ h1
 
 #wrapper img {width: 100%;height:auto;}
 
-#panelA_go{left:940px;top:40px;width:200px;height:auto;}
+#panelA_go{left:940px;top:40px;width:200px;height:auto; cursor:pointer;}
 #panelA_brick{background: url("../images/panelA_brick.gif") repeat-x;width: 1400px;height:900px;bottom: 0}
 #panelA_title {width:818px;height:auto;top:25px;left: 50px;}
 #panelA_krugman{width:408px;height:auto;bottom:0;left:700px;}
