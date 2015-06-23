@@ -15,3 +15,5 @@ body{
 p {margin: 20px;}
 
 .small{font-size: 14px;}
+
+a { color: #ddd; text-decoration: underline; }
