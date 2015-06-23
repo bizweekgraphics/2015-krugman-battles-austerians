@@ -125,6 +125,10 @@ h1
   box-sizing: border-box;
 }
 
+.copy p {
+  margin: 0 0 1em 0;
+}
+
 .decorative{font-family: 'Press Start 2P', cursive;}
 
 #sec1{
