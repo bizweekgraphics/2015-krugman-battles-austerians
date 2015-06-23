@@ -275,7 +275,7 @@ strong{  font-family: 'HaasDisplayBold', arial, sans-serif;font-weight: bold;}
 }
 
 
-@media( max-height: 700px ){
+@media( max-height: 720px ){
     .small{font-size: 12px}
     .copy{font-size: 17px;line-height: 22px}
 
