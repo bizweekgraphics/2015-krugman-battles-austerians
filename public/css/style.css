@@ -129,6 +129,10 @@ h1
   margin: 0 0 1em 0;
 }
 
+.copy a {
+  text-decoration: underline;
+}
+
 .decorative{font-family: 'Press Start 2P', cursive;}
 
 #sec1{
