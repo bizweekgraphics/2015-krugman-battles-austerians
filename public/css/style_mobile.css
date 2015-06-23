@@ -1,0 +1,16 @@
+
+body{
+  color:#fff;
+  font-family: 'HaasText', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+*{margin: 0;padding:0;}
+#mobile{display: block;}
+#wrapper{display: none;}
+
+#mobile img{width: 100%;}
+
+p {margin: 20px;}
+
+.small{font-size: 14px;}
