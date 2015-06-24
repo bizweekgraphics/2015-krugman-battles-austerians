@@ -318,3 +318,42 @@ strong{  font-family: 'HaasDisplayBold', arial, sans-serif;font-weight: bold;}
     .front{width: 11500px;}
 
 }
+
+
+@media screen and (max-width: 1024px) {
+
+  body{
+    color:#fff;
+    font-family: 'HaasText', Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    height: auto !important;
+  }
+
+  *{margin: 0;padding:0;}
+  #mobile{display: block;}
+  #wrapper{display: none;}
+
+  #mobile img{width: 100%;}
+
+  p {margin: 20px;}
+
+  .small{font-size: 14px;}
+
+  a { color: #ddd; text-decoration: underline; }
+
+}
+
+/* USE FOR TERMINAL TOO, lol */
+.terminal body{
+  color:#fff;
+  font-family: 'HaasText', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+  height: auto !important;
+}
+.terminal *{margin: 0;padding:0;}
+.terminal #mobile{display: block;}
+.terminal #wrapper{display: none;}
+.terminal #mobile img{width: 100%;}
+.terminal p {margin: 20px;}
+.terminal .small{font-size: 14px;}
+.terminal a { color: #ddd; text-decoration: underline; }
